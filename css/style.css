@@ -269,6 +269,23 @@ img {
   display: none;
 }
 
+/* question */
+.queation {
+  margin: 10px 20px;
+}
+
+.queation h1 {
+  color: red;
+}
+
+.queation p {
+  font-size: 20px;
+}
+
+.p-bold {
+  font-weight: bolder;
+}
+
 @media only screen and (max-width: 992px) {
   #posts {
     grid-template-columns: repeat(2, 1fr);
